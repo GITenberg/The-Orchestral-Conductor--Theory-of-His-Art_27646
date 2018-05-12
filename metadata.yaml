@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hector_Berlioz
     - http://fr.wikipedia.org/wiki/Hector_Berlioz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27646#The-Orchestral-Conductor--Theory-of-His-Art
 gutenberg_bookshelf: Music
 gutenberg_issued: '2008-12-28'
 gutenberg_type: Text
